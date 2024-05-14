@@ -1,0 +1,6 @@
+.background-div {
+    display: inline-block;
+    background-image: url('https://capsule-render.vercel.app/api?type=waving&color=283D7B&height=120&section=footer');
+    width: 100%;
+    height: 120px;
+}
