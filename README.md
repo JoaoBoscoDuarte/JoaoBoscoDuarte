@@ -4,7 +4,7 @@
 
 <div>
    <h2>Hello, Bosco here! 🔭</h2>
-   <p>  Hi, I'm João Bosco, a student at the Federal University of Paraíba (UFPB), studying Information Systems and a musician in my (rare) spare time. I'm currently venturing into the various areas of programming with an emphasis on data science and software engineering, using languages and technologies such as Python, JavaScript, NodeJS, C++ and others.</p>
+   <p>  Hi, I'm João Bosco, a student at the Federal University of Paraíba (UFPB), studying Information Systems and a musician in my (rare) spare time. I'm currently venturing into the various areas of programming.</p>
 </div>
 
 <div style="display: inline-block;">
